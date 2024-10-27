@@ -1,0 +1,16 @@
+{
+    "name": "admin/task_management",
+    "description": "this is a test project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\TaskManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Richard Hamel",
+            "email": "gomericroth@gmail.com"
+        }
+    ],
+    "require": {}
+}
